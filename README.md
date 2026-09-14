@@ -26,10 +26,10 @@ desenvolvimento de software, redes e cybersecurity.
 
 ## Projetos
 
-🚧 Em construção...
+Em construção
 
 ## Atualmente
 
-- 🌐 Networking — Cisco Networking Academy
-- 🔐 Cybersecurity
-- ⚙️ C
+- Networking — Cisco Networking Academy
+- Cybersecurity
+- Python
