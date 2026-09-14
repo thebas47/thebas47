@@ -2,7 +2,7 @@
 
 IT Support | Software Development | Networking & Cybersecurity | Linux | Python & Java
 
-## Sobre
+## Sobre mim
 
 Estudante de tecnologia com experiência em Suporte de TI e interesse em
 desenvolvimento de software, redes e cybersecurity.
