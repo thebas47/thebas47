@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá!
 
-<!--
-**thebas47/thebas47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support | Software Development | Networking & Cybersecurity | Linux | Python & Java
 
-Here are some ideas to get you started:
+## Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de tecnologia com experiência em Suporte de TI e interesse em
+desenvolvimento de software, redes e cybersecurity.
+
+## Tecnologias
+
+**Linguagens**
+- Python
+- Java
+- C
+
+**Banco de Dados**
+- SQL
+- Bancos relacionais e não relacionais
+
+**Infraestrutura & Segurança**
+- Networking
+- Cybersecurity
+- LGPD
+- Linux
+
+## Projetos
+
+🚧 Em construção...
+
+## Atualmente
+
+- 🌐 Networking — Cisco Networking Academy
+- 🔐 Cybersecurity
+- ⚙️ C
