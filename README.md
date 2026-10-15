@@ -1,35 +1,64 @@
-# Olá!
+_____ _   _ _____ ____    _    ____  _  _
+                |_   _| | | | ____| __ )  / \  / ___|| || |
+                  | | | |_| |  _| |  _ \ / _ \ \___ \| || |_
+                  |_|  \___/|_____|_| \_/_/ \_\|____/|__   _|
+                                                       |_|
 
-IT Support | Software Development | Networking & Cybersecurity | Linux | Python & Java
+<div align="center">"thebas47"
 
-## Sobre mim
+SOFTWARE DEVELOPMENT · LINUX · AUTOMATION
 
-Estudante de tecnologia com experiência em Suporte de TI e interesse em
-desenvolvimento de software, redes e cybersecurity.
+"[ system online ]" · "[ building & learning ]" · "[ root@localhost ~ ]"
 
-## Tecnologias
+</div>---
 
-**Linguagens**
-- Python
-- Java
-- C
+"01 // SYSTEM INFORMATION"
 
-**Banco de Dados**
-- SQL
-- Bancos relacionais e não relacionais
+thebas47@github
+------------------------------
+OS:          Linux
+Shell:       Bash
+Focus:       Software Development
+Interests:   Backend, Automation, Systems
+Languages:   Portuguese, English
+Editor:      Terminal / VS Code
 
-**Infraestrutura & Segurança**
-- Networking
-- Cybersecurity
-- LGPD
-- Linux
+"02 // LANGUAGES & TECHNOLOGIES"
 
-## Projetos
+Programming
+-----------
+Python       Backend / Automation
+Java         Object-Oriented Programming
+JavaScript   Web / Integrations
+SQL          Relational Databases
 
-Em construção
+Environment
+-----------
+Linux        Operating System
+Git          Version Control
+Django       Web Development
+APIs         System Integration
 
-## Atualmente
+"03 // CURRENT OBJECTIVE"
 
-- Networking — Cisco Networking Academy
-- Cybersecurity
-- Python
+> Learn by building.
+> Understand the system, not just the interface.
+> Write code that solves real problems.
+> Explore Linux, networking and software architecture.
+
+"04 // PROJECTS"
+
+[ PROJECT DIRECTORY ]
+
+Explore my repositories:
+https://github.com/thebas47?tab=repositories
+
+<!-- Replace this section with your actual projects as you publish them. -->"05 // GITHUB STATISTICS"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thebas47&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9E64&text_color=7DCFFF&icon_color=7AA2F7" alt="GitHub statistics" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebas47&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9E64&text_color=7DCFFF" alt="Most used programming languages" /></div>"06 // CONTACT"
+
+GitHub:  https://github.com/thebas47
+
+---
+
+[ END OF TRANSMISSION ]
